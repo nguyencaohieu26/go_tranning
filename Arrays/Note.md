@@ -1,0 +1,5 @@
+- In Go language, arrays are mutable, so that you can use array[index] syntax to left-hand side of the assignment to set the elements of the array at the given index
+- In an array, if an array does not initialized explicitly, then the default value of this array is 0
+- An array is of value type not of reference type. -> when the array is assigned to new variable, then the changes made in the new variable do not affect the original array.
+- In an array, if the element type of the array is comparable, then the array type is also comparable
+- An array belongs to type [n]T like: [5]int
